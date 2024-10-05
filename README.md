@@ -1,1 +1,1 @@
-This repository holds the projects from the courses: Computer vision & Image Processing
+This repository holds projects in the field of image processing and computer vision.
